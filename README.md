@@ -2,7 +2,8 @@
 # Project #1: Your first application
 
 ### STEP 1: Read the Directions
-1) Read **ALL** of the directions before doing step 2. We will know! 
+1) Read **ALL** of the directions before doing step 2. We'll know...
+![we'll know...](https://media.giphy.com/media/Zm7mbgZYSehBm/giphy.gif)
 
 ### STEP 2: Make a New Repo
 :heavy_exclamation_mark: You will be using your personal GitHub, **not** GitHub Enterprise!
