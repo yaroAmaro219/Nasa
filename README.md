@@ -34,7 +34,7 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
   4. A `README.md` file with explanations of the technologies used, the approach taken, a link to your live site, installation instructions, unsolved problems, etc.
   1. Use AJAX to make a request to an external data source like OMDBapi and insert some of the data retrieved into the DOM
   1. Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc). Use at least 3 media  queries
-  1. ~Have one or more complex user interface modules such as a carousel, drag and drop, a sticky nav, tooltips, etc~
+  1. Have one or more complex user interface modules such as a carousel, drag and drop, a sticky nav, tooltips, etc
 
 #### 📋 List of API's
 
