@@ -4,13 +4,13 @@
 ### STEP 1: Read the Directions
 1) Read **ALL** of the directions before doing step 2. We will know! 
 
-## STEP 2: Make a New Repo
+### STEP 2: Make a New Repo
 :heavy_exclamation_mark: You will be using your personal GitHub, **not** GitHub Enterprise!
 1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/).
 2. Make sure it's set to "Public" and **do not** initialize with a README.md file.
 3. This will take you to a new page that you will use in Step 3.
 
-## STEP 3: Make a Project Folder
+### STEP 3: Make a Project Folder
 1. Using the CLI, `mkdir` a new project folder and `cd` into it.
 2. Use the "…or create a new repository on the command line" code from GitHub to connect your project to your repository.
 
