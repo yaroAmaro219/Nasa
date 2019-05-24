@@ -3,6 +3,7 @@
 
 ### STEP 1: Read the Directions
 1) Read **ALL** of the directions before doing step 2. We'll know...
+
 ![we'll know...](https://media.giphy.com/media/Zm7mbgZYSehBm/giphy.gif)
 
 ### STEP 2: Make a New Repo
