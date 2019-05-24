@@ -24,7 +24,7 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
 - Stretch goals for additional / advanced features for when you complete your MVP 
 - Wireframes showing your app's layout on desktop, tablet, and mobile. These can be as lo-fi or as hi-fi as you want. You don't have to put these in the README, but please upload them to your repository.
 
-### STEP 5: Build Your Project MVP — &#x1F534; Mandatory To Pass
+### STEP 5: &#x1F534; Build Your Project MVP —  Mandatory To Pass
 
 #### Your application must meet these requirements:
 
