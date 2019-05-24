@@ -1,17 +1,28 @@
 
 # Project #1: Your first application
 
-### Pitch
-_Read the instructions_
+### STEP 1: Read the Directions
+1) Read **ALL** of the directions before doing step 2. We will know! 
 
-An instructor will contact you to setup a meeting time to approve your project.
+## STEP 2: Make a New Repo
+:heavy_exclamation_mark: You will be using your personal GitHub, **not** GitHub Enterprise!
+1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/).
+2. Make sure it's set to "Public" and **do not** initialize with a README.md file.
+3. This will take you to a new page that you will use in Step 3.
 
-You will meet with an instructor for ~15 minutes to get your app idea approved. Be sure to sketch out a wireframe, pick out what API you want to use, and write out what features you will need to build in order to meet MVP and some stretch goal ideas before you meet with us! 
+## STEP 3: Make a Project Folder
+1. Using the CLI, `mkdir` a new project folder and `cd` into it.
+2. Use the "…or create a new repository on the command line" code from GitHub to connect your project to your repository.
 
-Start a repo and include the above information in the README.
+### STEP 4: Pitch Your Project
+Before you start coding, you will be meeting with an instructor for ~10 minutes to get your app idea approved. Prepare the following materials **before** this meeting and put them in your README.md:
+- A working title for your app
+- What API you want to use and what information you want to get from it. 
+- Write out what features you will need to build in order to meet MVP 
+- Stretch goals for additional / advanced features for when you complete your MVP 
+- Wireframes showing your app's layout on desktop, tablet, and mobile. These can be as lo-fi or as hi-fi as you want. You don't have to put these in the README, but please upload them to your repository.
 
-### &#x1F534; Mandatory To Pass:
-#### MVP - Minimum Viable Product
+### STEP 5: Build Your Project MVP — &#x1F534; Mandatory To Pass
 
 #### Your application must meet these requirements:
 
@@ -19,12 +30,11 @@ Start a repo and include the above information in the README.
   2. Hosted on surge<br>
   3. Commits to github every day<br>
   4. A `README.md` file with explanations of the technologies used, the approach taken, a link to your live site, installation instructions, unsolved problems, etc.
-
   1. Use AJAX to make a request to an external data source like OMDBapi and insert some of the data retrieved into the DOM
   1. Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc). Use at least 3 media  queries
   1. ~~Have one or more complex user interface modules such as a carousel, drag and drop, a sticky nav, tooltips, etc~~
 
-### 📋 List of API's
+#### 📋 List of API's
 
 Below is a non-exhaustive list of some free API's you can use. There are _many_ API's out there, however, so if you find one not on this list that you'd like to use, feel free! Please note that some may require signing up for an API key.
 
@@ -45,23 +55,16 @@ Lastly, the following sites congregates a bunch of API's together, so you can ta
   1. https://github.com/toddmotto/public-apis
   1. https://rapidapi.com/
 
-### &#x1F535; Stretch Goals (Not Mandatory):
-
+### STEP 6 - &#x1F535; Reach Stretch Goals (Not Mandatory)
 - Look into [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) so you can save data to the user's browser 
 - Add a second API
-- Add creative use of event listeners and ui interaction
+- Add creative use of event listeners and UI interaction
 - Konami code ;)
 - Get feedback from UX student
 - You can also host your projects with your own domain name. [Here is a walktrhough from namecheap, one web hosting service](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
 
-## Make A New Repo
 
-:heavy_exclamation_mark: You will be using GitHub, **not** GitHub Enterprise!
-
-1. After your project has been approved, [make a new github repo for your project](https://help.github.com/articles/create-a-repo/). You will be deploying this project onto surge.
-
-
-## Technical Demonstration
+### STEP 7 - Technical Demonstration
 
 All projects will be presented to the class.  Your presentation should:
 
@@ -73,9 +76,12 @@ All projects will be presented to the class.  Your presentation should:
 
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
-## Useful Resources
+Did you read all of the directions before moving to step 2? If so, on part 2 of step 3, write `git commit -m "imma happy panda"` instead of `git commit -m "first commit"`. Your awesomeness will be rewarded...
+
+### Useful Resources
 
 * **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[Surge](https://surge.sh/)**
 
 <hr>  
+
