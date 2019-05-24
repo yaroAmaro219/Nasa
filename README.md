@@ -29,7 +29,7 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
 #### Your application must meet these requirements:
 
   1. Built with HTML, CSS, and JavaScript
-  2. Hosted on surge<br>
+  2. Hosted on **[Surge](https://surge.sh/)**
   3. Commits to github every day<br>
   4. A `README.md` file with explanations of the technologies used, the approach taken, a link to your live site, installation instructions, unsolved problems, etc.
   1. Use AJAX to make a request to an external data source like OMDBapi and insert some of the data retrieved into the DOM
