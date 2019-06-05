@@ -4,19 +4,13 @@
 ### STEP 1: Read the Directions
 1) Read **ALL** of the directions before doing step 2. We'll know...
 
-![we'll know...](https://media.giphy.com/media/Zm7mbgZYSehBm/giphy.gif)
-
 ### STEP 2: Make a New Repo
 :heavy_exclamation_mark: You will be using your personal GitHub, **not** GitHub Enterprise!
 1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/).
 2. Make sure it's set to "Public" and **do not** initialize with a README.md file.
 3. This will take you to a new page that you will use in Step 3.
 
-### STEP 3: Make a Project Folder
-1. Using the CLI, `mkdir` a new project folder and `cd` into it.
-2. Use the "…or create a new repository on the command line" code from GitHub to connect your project to your repository.
-
-### STEP 4: Pitch Your Project
+### STEP 3: Pitch Your Project
 Before you start coding, you will be meeting with an instructor for ~10 minutes to get your app idea approved. Prepare the following materials **before** this meeting and put them in your README.md:
 - A working title for your app
 - What API you want to use and what information you want to get from it. 
@@ -24,7 +18,7 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
 - Stretch goals for additional / advanced features for when you complete your MVP 
 - Wireframes showing your app's layout on desktop, tablet, and mobile. These can be as lo-fi or as hi-fi as you want. You don't have to put these in the README, but please upload them to your repository.
 
-### STEP 5: &#x1F534; Build Your Project MVP —  Mandatory To Pass
+### STEP 4: &#x1F534; Build Your Project MVP —  Mandatory To Pass
 
 #### Your application must meet these requirements:
 
@@ -34,9 +28,8 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
   4. A `README.md` file with explanations of the technologies used, the approach taken, a link to your live site, installation instructions, unsolved problems, etc.
   1. Use AJAX to make a request to an external data source like OMDBapi and insert some of the data retrieved into the DOM
   1. Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc). Use at least 3 media  queries
-  1. Have one or more complex user interface modules such as a carousel, drag and drop, a sticky nav, tooltips, etc
 
-#### 📋 List of API's
+#### 📋 List of APIs
 
 Below is a non-exhaustive list of some free API's you can use. There are _many_ API's out there, however, so if you find one not on this list that you'd like to use, feel free! Please note that some may require signing up for an API key.
 
@@ -52,21 +45,18 @@ Below is a non-exhaustive list of some free API's you can use. There are _many_ 
   1. Chuck Norris: http://www.icndb.com/
   1. Rick and Morty: https://rickandmortyapi.com/documentation/#rest
   
-Lastly, the following sites congregates a bunch of API's together, so you can take a look through their libraries and try to find an API that interests you! Note, however, that not all API's are free and many listed may require payment. We **highly suggest** to use a free API for your first project dealing with one. 
+Lastly, the following sites congregates a bunch of APIs together, so you can take a look through their libraries and try to find an API that interests you! Note, however, that not all APIs are free and many listed may require payment. We **highly suggest** to use a free API for your first project dealing with one. 
 
   1. https://github.com/toddmotto/public-apis
   1. https://rapidapi.com/
 
-### STEP 6 - &#x1F535; Reach Stretch Goals (Not Mandatory)
+### STEP 5 - &#x1F535; Reach Stretch Goals (Not Mandatory)
 - Look into [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) so you can save data to the user's browser 
 - Add a second API
 - Add creative use of event listeners and UI interaction
-- Konami code ;)
 - Get feedback from UX student
-- You can also host your projects with your own domain name. [Here is a walktrhough from namecheap, one web hosting service](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
 
-
-### STEP 7 - Technical Demonstration
+### STEP 6 - Technical Demonstration
 
 All projects will be presented to the class.  Your presentation should:
 
