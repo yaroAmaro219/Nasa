@@ -60,7 +60,7 @@ Lastly, the following sites congregates a bunch of APIs together, so you can tak
 
 All projects will be presented to the class.  Your presentation should:
 
-* Be approximately 5 minutes in length
+* Be no longer than 5 minutes in length
 * Show off all features of the app
 * Explain the technical details
 * Explain the technical challenges
@@ -69,11 +69,6 @@ All projects will be presented to the class.  Your presentation should:
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
 Did you read all of the directions before moving to step 2? If so, on part 2 of step 3, write `git commit -m "imma happy panda"` instead of `git commit -m "first commit"`. Your awesomeness will be rewarded...
-
-### Useful Resources
-
-* **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-* **[Surge](https://surge.sh/)**
 
 <hr>  
 
