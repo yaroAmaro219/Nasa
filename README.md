@@ -31,7 +31,7 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
 
 #### 📋 List of APIs
 
-Below is a non-exhaustive list of some free API's you can use. There are _many_ API's out there, however, so if you find one not on this list that you'd like to use, feel free! Please note that some may require signing up for an API key.
+Below is a non-exhaustive list of some free APIs you can use. There are _many_ APIs out there, however, so if you find one not on this list that you'd like to use, feel free! Please note that some may require signing up for an API key.
 
   1. Star Wars: https://swapi.co/
   1. Weather: https://openweathermap.org/api
@@ -54,7 +54,7 @@ Lastly, the following sites congregates a bunch of APIs together, so you can tak
 - Look into [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) so you can save data to the user's browser 
 - Add a second API
 - Add creative use of event listeners and UI interaction
-- Get feedback from UX student
+- Get input from a UX student on how to make your app have intuitive UI and design
 
 ### STEP 6 - Technical Demonstration
 
@@ -69,6 +69,4 @@ All projects will be presented to the class.  Your presentation should:
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
 Did you read all of the directions before moving to step 2? If so, on part 2 of step 3, write `git commit -m "imma happy panda"` instead of `git commit -m "first commit"`. Your awesomeness will be rewarded...
-
-<hr>  
 
