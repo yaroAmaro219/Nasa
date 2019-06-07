@@ -6,7 +6,7 @@
 
 ### STEP 2: Make a New Repo
 :heavy_exclamation_mark: You will be using your personal GitHub, **not** GitHub Enterprise!
-1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/).
+1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/). DO NOT CLONE THIS REPO.
 2. Make sure it's set to "Public" and **do not** initialize with a README.md file.
 3. This will take you to a new page that you will use in Step 3.
 
