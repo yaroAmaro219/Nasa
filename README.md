@@ -6,8 +6,8 @@
 
 ### STEP 2: Make a New Repo
 :heavy_exclamation_mark: You will be using your **personal GitHub**, **not** GitHub Enterprise!
-1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/). DO NOT CLONE THIS REPO.
-2. Make sure it's set to "Public" and **do not** initialize with a README.md file.
+1. [Make a new github repo for your project](https://help.github.com/articles/create-a-repo/). DO NOT CLONE THIS REPO.
+2. Make sure it's set to "Public" and **DO NOT** initialize with a README.md file.
 3. This will take you to a new page that you will use in Step 3.
 
 ### STEP 3: Pitch Your Project
@@ -49,7 +49,7 @@ Below is a non-exhaustive list of some free APIs you can use. There are _many_ A
   1. Chuck Norris: http://www.icndb.com/
   1. Rick and Morty: https://rickandmortyapi.com/documentation/#rest
   
-Lastly, the following sites congregates a bunch of APIs together, so you can take a look through their libraries and try to find an API that interests you! Note, however, that not all APIs are free and many listed may require payment. We **highly suggest** to use a free API for your first project dealing with one. 
+Lastly, the following sites congregates a bunch of APIs together, so you can take a look through their libraries and try to find an API that interests you! Note, however, that not all APIs are free and many listed may require payment. We **highly suggest** to use a free API for your first project. 
 
   1. https://github.com/toddmotto/public-apis
   1. https://rapidapi.com/
@@ -84,6 +84,8 @@ Did you read all of the directions before moving to step 2? If so, on part 2 of 
 [MentalHealthable](http://mentalhealthable.surge.sh/)
 
 [MooDivator](http://moodivator.surge.sh/)
+
+[Fretsy](http://alex-curtin-p-1.surge.sh/)
 
 [Yahtsee](http://yahtsee.surge.sh/)
 
