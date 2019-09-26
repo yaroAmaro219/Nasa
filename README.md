@@ -15,7 +15,7 @@ Before you start coding, you will be meeting with an instructor for ~10 minutes 
 
 Your README.md must contain the following sections:
 - A working title for your app
-- **Descripntion** .4-5 sentences summarizing the functionality of your app. Feel free to include what problem is your app solving.
+- **Description** .4-5 sentences summarizing the functionality of your app. Feel free to include what problem is your app solving.
 -- **Wireframes** Wireframes showing your app's layout on desktop, tablet, and **mobile**. These can be as lo-fi or as hi-fi as you want. You can either to put these in the README or upload them to your repository.
 - **API** What API you want to use and what information you want to get from it.
 - **Features** Write out what features you will need to build in order to meet MVP.
@@ -61,6 +61,7 @@ Lastly, the following sites congregates a bunch of APIs together, so you can tak
 - Add creative use of event listeners and UI interaction(CSS animations and transitions)
 - Get input from a UX student on how to make your app have intuitive UI and design
 
+
 ### STEP 6 - Technical Demonstration (10/04/2019)
 
 All projects will be presented to the class.  Your presentation should:
@@ -74,4 +75,11 @@ All projects will be presented to the class.  Your presentation should:
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
 Did you read all of the directions before moving to step 2? If so, on part 2 of step 3, write `git commit -m "imma happy dino"` instead of `git commit -m "first commit"`. Your awesomeness will be rewarded...
+
+### Sample Projects 
+[Match'em](http://cardmatch.surge.sh/)
+[MacroManager](https://macromanager.surge.sh/)
+[MentalHealthable](http://mentalhealthable.surge.sh/)
+[MooDivator](http://moodivator.surge.sh/)
+[Yahtsee](http://yahtsee.surge.sh/)
 
