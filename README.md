@@ -5,18 +5,22 @@
 1) Read **ALL** of the directions before doing step 2. We'll know...
 
 ### STEP 2: Make a New Repo
-:heavy_exclamation_mark: You will be using your personal GitHub, **not** GitHub Enterprise!
+:heavy_exclamation_mark: You will be using your **personal GitHub**, **not** GitHub Enterprise!
 1. [make a new github repo for your project](https://help.github.com/articles/create-a-repo/). DO NOT CLONE THIS REPO.
 2. Make sure it's set to "Public" and **do not** initialize with a README.md file.
 3. This will take you to a new page that you will use in Step 3.
 
 ### STEP 3: Pitch Your Project
-Before you start coding, you will be meeting with an instructor for ~10 minutes to get your app idea approved. Prepare the following materials **before** this meeting and put them in your README.md:
+Before you start coding, you will be meeting with an instructor for ~10 minutes to get your app idea approved. Prepare the following materials **before** this meeting and update your README.md: [MacDown](https://macdown.uranusjr.com/) is a great markdown editor. We strongly suggest you take advantage of its great UI.
+
+Your README.md must contain the following sections:
 - A working title for your app
-- What API you want to use and what information you want to get from it. 
-- Write out what features you will need to build in order to meet MVP 
-- Stretch goals for additional / advanced features for when you complete your MVP 
-- Wireframes showing your app's layout on desktop, tablet, and mobile. These can be as lo-fi or as hi-fi as you want. You don't have to put these in the README, but please upload them to your repository.
+- **Descripntion** .4-5 sentences summarizing the functionality of your app. Feel free to include what problem is your app solving.
+-- **Wireframes** Wireframes showing your app's layout on desktop, tablet, and **mobile**. These can be as lo-fi or as hi-fi as you want. You can either to put these in the README or upload them to your repository.
+- **API** What API you want to use and what information you want to get from it.
+- **Features** Write out what features you will need to build in order to meet MVP.
+- **Stretch goals** Stretch goals for additional / advanced features for when you complete your MVP.
+
 
 ### STEP 4: &#x1F534; Build Your Project MVP —  Mandatory To Pass
 
@@ -52,11 +56,12 @@ Lastly, the following sites congregates a bunch of APIs together, so you can tak
 
 ### STEP 5 - &#x1F535; Reach Stretch Goals (Not Mandatory)
 - Look into [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) so you can save data to the user's browser 
+   - Check this very helpful tutorial on [Local Storage](https://www.youtube.com/watch?v=k8yJCeuP6I8)
 - Add a second API
-- Add creative use of event listeners and UI interaction
+- Add creative use of event listeners and UI interaction(CSS animations and transitions)
 - Get input from a UX student on how to make your app have intuitive UI and design
 
-### STEP 6 - Technical Demonstration
+### STEP 6 - Technical Demonstration (10/04/2019)
 
 All projects will be presented to the class.  Your presentation should:
 
