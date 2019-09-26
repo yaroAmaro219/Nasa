@@ -11,12 +11,12 @@
 3. This will take you to a new page that you will use in Step 3.
 
 ### STEP 3: Pitch Your Project
-Before you start coding, you will be meeting with an instructor for ~10 minutes to get your app idea approved. Prepare the following materials **before** this meeting and update your README.md: [MacDown](https://macdown.uranusjr.com/) is a great markdown editor. We strongly suggest you take advantage of its great UI.
+Before you start coding, you will be meeting with an instructor for ~10 minutes to get your app idea approved. Prepare the following materials **before** this meeting and **update your README.md:** [MacDown](https://macdown.uranusjr.com/) is a great markdown editor. We strongly suggest you take advantage of its great UI.
 
 Your README.md must contain the following sections:
 - A working title for your app
 - **Description** .4-5 sentences summarizing the functionality of your app. Feel free to include what problem is your app solving.
--- **Wireframes** Wireframes showing your app's layout on desktop, tablet, and **mobile**. These can be as lo-fi or as hi-fi as you want. You can either to put these in the README or upload them to your repository.
+- **Wireframes** Wireframes showing your app's layout on desktop, tablet, and **mobile**. These can be as lo-fi or as hi-fi as you want. You can either to put these in the README or upload them to your repository.
 - **API** What API you want to use and what information you want to get from it.
 - **Features** Write out what features you will need to build in order to meet MVP.
 - **Stretch goals** Stretch goals for additional / advanced features for when you complete your MVP.
