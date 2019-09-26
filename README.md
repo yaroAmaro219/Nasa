@@ -78,8 +78,12 @@ Did you read all of the directions before moving to step 2? If so, on part 2 of 
 
 ### Sample Projects 
 [Match'em](http://cardmatch.surge.sh/)
+
 [MacroManager](https://macromanager.surge.sh/)
+
 [MentalHealthable](http://mentalhealthable.surge.sh/)
+
 [MooDivator](http://moodivator.surge.sh/)
+
 [Yahtsee](http://yahtsee.surge.sh/)
 
