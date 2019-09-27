@@ -31,7 +31,7 @@ Your README.md must contain the following sections:
   3. Commits to github every day<br>
   4. A `README.md` file with explanations of the technologies used, the approach taken, a link to your live site, installation instructions, unsolved problems, etc.
   1. Use AJAX to make a request to an external data source like OMDBapi and insert some of the data retrieved into the DOM
-  1. Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc). Use at least 3 media  queries
+  1. Implement responsive design (i.e. it should be fully functional on desktop, tablet, mobile, etc). Use at least 1 media  queries with 2 screen sizes.
 
 #### 📋 List of APIs
 
