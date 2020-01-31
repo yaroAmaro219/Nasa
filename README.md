@@ -137,7 +137,7 @@ When you experience issues with your code, you will use the GitHub Issues tab an
 
 When your project is complete and due, your instructors will choose if they would like to have presentations, in which you present your app to your cohort, or science-fairs, in which you present your app to the campus, speaking about your app with other students and staff. With that, your Project 1 is **complete**!
 
-Did you read all of these instructions? If so, ignore any prior instructions about what to say in your first commit. Make your first commit message "I'mma happy Cheetah."
+Did you read all of these instructions? If so, ignore any prior instructions about what to say in your first commit. Make your first commit message "I'mma happy Mandolorian."
 
 <br>
 
@@ -160,11 +160,6 @@ Did you read all of these instructions? If so, ignore any prior instructions abo
 - For more comprehensive lists, check:
   - https://github.com/toddmotto/public-apis
   - https://rapidapi.com/
-
-## Templates
-
-- Project 1 ReadMe Template _(Coming Soon)_
-- Project Issue Ticket Template _(Coming Soon)_
 
 ## Relevant Guides 
 
