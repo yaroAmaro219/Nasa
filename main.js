@@ -24,9 +24,14 @@ const pod = function (data) {
     let title = data.data.title
     let newDiv = document.createElement('div')
 
-    newDiv.innerHTML += `<p class="page">${title}</p><p id='date_pod'>${date}</p>
-    <p id="explanation">${explanation}</p><img class="img_img" src="${image}">`
-    document.querySelector('#sattelitepic').append(newDiv)
+    newDiv.innerHTML +=
+        `<p class="page">${title}</p>
+    <div class="content">
+    <img class="image" src="${image}">
+    <div class="content-details fadeIn-bottom fadeIn-left">
+    <p class="date">${date}</p>
+    <h1 id="explanation">${explanation}</h1></div></div>`
+    document.querySelector('.pod').append(newDiv)
 }
 
 
@@ -43,28 +48,39 @@ get_mars()
 
 const mars = function (data) {
     let rover = data.data.latest_photos
+    //select the specific data we want from the dataset we get from the api
+    //use .foreach with a function variable to go through array in data
     rover.forEach(pic => {
         let newDiv = document.createElement('div')
         newDiv.className = "img_wrap";
-        newDiv.innerHTML += `<img class="img_img" src=${pic.img_src}>
+        //create newDiv with class "img_wrap"
+        newDiv.innerHTML +=
+            `<img class="img" src=${pic.img_src}>
         <p class="img_date">Date: ${pic.earth_date}</p>
         <p class="img_description">Rover Name: ${pic.rover.name}</p>`
+        //line 49 selects lines 50-52 and stores them in newDiv, owith the mutable api data
         document.querySelector('#rover').append(newDiv)
+        //select id from div in mars.html
     })
 
 }
 
 const earth = function (data) {
     let image = data.data.url
+    //select the specific data we want from the dataset we get from the api
     let newDiv = document.createElement('div')
-
     newDiv.innerHTML += `<img class="img" src="${image}">`
     document.querySelector('.earth').append(newDiv)
+    //create newDiv 
+    //store image recieved from api data 
+    //insert in earth class in earth.html
 }
 
 search.addEventListener("click", async () => {
+
     let response = await axios.get(`https://api.nasa.gov/planetary/earth/imagery?lon=
     ${lon.value}&lat=${lat.value}&date=${date.value}&cloud_score=False&api_key=${appid}`);
+    //call data from api using axios and 
     console.log(response)
     earth(response)
 })
