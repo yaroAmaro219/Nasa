@@ -10,11 +10,9 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <script defer src="main.js"></script>
-
 </head>
 
 <body>
-
     <header>
         <nav id="nav">
             <a href="index.html">Home</a>
@@ -23,14 +21,29 @@
             <a href="pod.html">Picture of the Day</a>
         </nav>
         <img id="logo" src="nasa-logo.svg">
+        <p class="page">Earth</title>
     </header>
 
     <main>
 
 
+        <form>
+            Longitude:<br>
+            <input id="lon" type="text" name="Longitude"><br>
+            Latitude:<br>
+            <input id="lat" type="UTC" name="Latitude"><br>
+            Date:YYYY-MM-DD<br>
+            <input id='date' type='UTC' name="Date"><br>
+
+        </form>
+        <button id="search">Search</button>
+
+        <div class="earth">
+
+        </div>
+
 
     </main>
-
 
 </body>
 <footer>
@@ -41,7 +54,5 @@
     </div>
     <small>&copy; Amari 2020</small>
 </footer>
-
-
 
 </html>

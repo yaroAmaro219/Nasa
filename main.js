@@ -58,7 +58,7 @@ const mars = function (data) {
             `<img class="img" src=${pic.img_src}>
         <p class="img_date">Date: ${pic.earth_date}</p>
         <p class="img_description">Rover Name: ${pic.rover.name}</p>`
-        //line 49 selects lines 50-52 and stores them in newDiv, owith the mutable api data
+        //selects and stores them in newDiv, owith the mutable api data
         document.querySelector('#rover').append(newDiv)
         //select id from div in mars.html
     })
